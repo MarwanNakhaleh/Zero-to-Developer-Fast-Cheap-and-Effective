@@ -1,4 +1,4 @@
-# **Blog Post: Zero to Software Engineer: Fast, Cheap, and Effective**
+# **Zero to Developer: Fast, Cheap, and Effective**
 
 So you want to work as a software engineer? There's no doubt there's a LOT to cover to go from zero to being able to work successfully as a software engineer. You need to be familiar with certain tools that help you read, write, and release code, you need to have strong attention to detail, you need to be able to read other people's code, you need to be able to take fundamental code building blocks and tools and use them to build software solutions, the list goes on. 
 
