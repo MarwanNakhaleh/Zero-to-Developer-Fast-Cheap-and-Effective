@@ -16,19 +16,23 @@ It's not necessary to memorize exactly how code is written, but it's crucial tha
 
 Believe it or not, only a small portion of your time working as a software engineer will be used to write code. Instead, you'll spend the majority of your time reading code, either from the code you're working on or examples online. Again, you have to break down the code into its individual lines and see how they all fit together to solve the problems. 
 
-When you join a company as a software engineer, it's unlikely you'll have to build an application from scratch. It will help immensely to build some software applications for your portfolio (which I will cover later), but more than likely, when you start work at a job, you will have to maintain and build out code on an existing application. That will require you to figure out how all the existing code works. Once you understand how other people's code works, you can begin to contribute successfully to the codebase.
+When you join a company as a software engineer, it's unlikely you'll have to build an application from scratch. It will help immensely to build some software applications for your portfolio (which I will cover later), but more than likely, when you start work at a job, you will have to maintain and build out code on an existing application. That will require you to figure out how the existing code works. You don't necessarily have to understand every single line of code in the application, but you do need to know enough about what the code is doing and why the people who wrote it did what they did so you can interact with it. Once you understand how other people's code works, you can begin to contribute successfully to the codebase.
 
 ## What you need and what you don't need
 You don't need: 
 * A degree in IT or computer science
 * A brand new expensive computer
 * Expensive tools
-* An expensive coding bootcamp that costs anywhere between $15k and $40k USD
+* A coding bootcamp that costs anywhere between $15k and $40k USD
 * Knowledge of calculus or even algebra in most cases
 
 You can begin learning for your software career with as little as $0, as long as you have a computer with Internet connection.
 
-I cannot stress this point enough. **You are not required to spend money on learning how to code.**
+**You are not required to spend money on learning how to code.** I cannot stress this point enough. A coding bootcamp *can* help you get working faster, but it often doesn't help as much as you'd think.
+
+It's also a smart idea to avoid those "flexible" or "part-time" coding bootcamps too. In my experience, you spend several thousands of dollars to mostly teach yourself the concepts. You do get *some* mentorship and guidance, but nowhere near enough to justify the price. 
+
+In addition, those "flexible" programs tend not to be as flexible as they pretend to be. When you reach the end of the timeframe they give you and almost certainly don't meet their strict timelines for when you "should" know something, they cut off your access before you're ready and then you're right back to teaching yourself.
 
 You can use a little bit of money as a lubricant for your learning. Paid courses on Udemy or Pluralsight ($10-$50/course or $30/month respectively) are fantastic.  
 
