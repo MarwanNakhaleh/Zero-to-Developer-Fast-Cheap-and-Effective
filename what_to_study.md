@@ -90,4 +90,11 @@ Not everything from FreeCodeCamp is listed here, only the information that will 
 * **Take Home Projects**
 
 ## Necessary developer tools
-TBA
+FreeCodeCamp will do a great job of teaching you the concepts you need to know, but its platform is not something that will be useful in real-world web development.
+
+You will need to know how to use and navigate the following tools:
+* Visual Studio Code (or some integrated development)
+* Git (and GitHub)
+* deploying your code (making it live and usable for the world)
+
+Detail TBD
