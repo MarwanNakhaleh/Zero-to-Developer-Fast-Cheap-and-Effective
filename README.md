@@ -2,6 +2,8 @@
 
 So you want to work as a software engineer? There's no doubt there's a LOT to cover to go from zero to being able to work successfully as a software engineer. You need to be familiar with certain tools that help you read, write, and release code, you need to have strong attention to detail, you need to be able to read other people's code, you need to be able to take fundamental code building blocks and tools and use them to build software solutions, the list goes on. 
 
+Realistically, it will take you no less than 1000 hours of dedicated effort to go from zero to knowing the skills you need to get your first software engineering job.
+
 However, all you really need are two fundamental skills.
 
 ## Fundamental skills
@@ -53,6 +55,8 @@ The individual components on the webpage are written with a tool called HTML (Hy
 
 ## Specific learning material
 
+### FreeCodeCamp courses
+
 The best online resource to help you learn how to build websites and write code from scratch is (arguably) [FreeCodeCamp](https://www.freecodecamp.org/learn/). They have all sorts of courses that can teach you the most basic ideas, as well as advanced topics such as machine learning (which requires not only code but lots of math).
 
 At the time of this writing, there are four courses that will teach you most of what you need to know to begin working as a web developer. 
@@ -78,9 +82,24 @@ For example, when you login to a website, the webpage sends your login informati
 
 This course will teach you how to build and interact with back-end services so that you can build a full web application from all aspects.
 
-### The value of these courses
+#### The value of these courses
 
 There is a TON of material in those courses, and it will take at least a few months to get through all of that information. However, once you understand the concepts in the courses above, you actually know most of what you'll need to perform at your first web development job. If it turns out you need to learn other programming languages for your new job, since you're already familiar with JavaScript, that will help you get a hang of most other programming languages much quicker since a lot of the concepts transfer.
+
+### Specific tools
+While the FreeCodeCamp courses above will teach you most of what you will need to write code, there are other critical tools that will empower you to actually build applications and release them to the world.
+
+1. [Git](https://git-scm.com/downloads)
+
+To oversimplify, Git is a tool that allows you to track who made what changes to a codebase and when. This is called version control. Software developers use version control at just about any company that employs them. There are other tools besides Git that perform version control on code, but when you're working, you will very VERY likely use Git.
+
+Git allows for hosting your code in a central location somewhere else, exactly like I have done here with this guide. GitHub is a website where you can host and track code version controlled with Git.
+
+[Tutorial to learn to use Git](https://www.tutorialspoint.com/git/index.htm)
+
+2. [Visual Studio Code](https://code.visualstudio.com)
+
+When you're writing real-world code, you will need a tool on your computer to empower your interactions with your code.
 
 ## Building a portfolio
 

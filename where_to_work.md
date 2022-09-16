@@ -22,7 +22,7 @@ Each category rated 1-5 stars. **THIS IS BASED ON SUBJECTIVE EXPERIENCE. YOUR EX
 
 **1:** At any company, this is dependent on your luck in finding agreeable people. Startups/small companies generally have younger, more agreeable coworkers.
 
-**2:** Job security is an illusion.
+**2:** Job security is an illusion. Real security comes from your own ability to find gainful employment as needed.
 
 **3:** This stability is subject to periodic layoffs to appease shareholders. 
 

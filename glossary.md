@@ -25,6 +25,8 @@
 
 **Cultural fit**: This is partially a buzzword, but partially also how well you can get along with your teammates and the ideology of the company, which may sound like a bunch of hogwash, but it's really meaningful. If you can't get along, you will NOT succeed. 
 
+**Deploy**: The act of releasing your application, turning it from a codebase into something that end users can access.
+
 **Framework**: a tool that provides you with templates and functionality that you can use to build software much faster than if you wrote all of the code from scratch
 
 **Hackathon**: A competition in which software developers get together and create some sort of software application to solve a problem. These events usually take place over a weekend, and there are generally prizes for top competitors and recruiters looking to hire these students who are spending their free time writing more code. 

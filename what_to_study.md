@@ -1,12 +1,12 @@
 # What should I study?
 *This guide assumes you are looking to get a job as quickly as possible, which generally means you will want to study web development. If you are not interested in working in web dev, this guide does not apply to you.*
 
-## FreeCodeCamp courses
+## Learning the code
 Go to [FreeCodeCamp](https://freecodecamp.org/learn) and check out the certifications offered. FreeCodeCamp's certifications are composed of several courses each. For each certification track that offers material you'll need to know, read below to see which courses in each certification teach skills that are actually necessary or helpful to have in your job search.
 
-You don't need to worry about actually earning these certifications. They are not official and by themselves, they will not make or break your ability to get a job.
+You don't need to worry about actually earning these certification as much as you need to learn about the concepts. The certifications are not official and by themselves, they will not make or break your ability to get a job.
 
-Certification names are headers. Necessary ones are bold. Not all courses inside each certification will be necessary.
+Below, certification names are headers. Necessary ones are bold. Not all courses inside each certification will be necessary.
 
 If you see a certification on FreeCodeCamp that I don't have listed here, that means it's not necessary for you to know that material before you get your first job.
 
@@ -61,15 +61,15 @@ Not everything from FreeCodeCamp is listed here, only the information that will 
 
 ### **Front End Development Libraries Certification**
 * **Bootstrap** 
-    * You may not actually end up using bootstrap on the job; you may end up using a similar library like MaterialUI or Tailwind
-    * Nonetheless, it's important to know how to use CSS libraries
+    * You may not actually end up using Bootstrap specifically on the job; you may end up using a similar library like Bulma or Tailwind.
+    * Nonetheless, it's important to know how to use CSS libraries.
 * *jQuery*
-    * These days, jQuery is used less and less in modern web development.
+    * These days, jQuery is used less and less in modern web development, but it might help.
 * **React**
 * **Redux**
 * **React and Redux**
-* *Front end development libraries projects*
-    * Some of these expect you to use jQuery and SASS; feel free to skip those and focus on the stuff that doesn't require you to use those.
+* **Front end development libraries projects**
+    * Some of these expect you to use jQuery and SASS; if a project expects you to use those and you didn't take those courses, either skip the project or do it in a way that doesn't bother with those tools.
 
 ### **Back End Development and APIs Certification**
 * **Managing Packages with NPM**
@@ -79,6 +79,10 @@ Not everything from FreeCodeCamp is listed here, only the information that will 
     * These projects will require you to know some database stuff, but the database you interact with may vary.
 
 ### *Quality Assurance Certification*
+You won't be expected to know much about quality assurance as a junior developer. However, there is an expectation that you can at least check somehow that your code behaves as intended. 
+
+If you have too much difficulty landing a software engineer job, getting a software testing job might be an easier way into your first role in the software industry.
+
 * **Quality Assurance and Testing with Chai**
     * I marked Quality Assurance the certification track as "nice to have", but if you do explore QA, you WILL want to go through this course within the certification.
 * *Advanced Node and Express*
@@ -90,11 +94,29 @@ Not everything from FreeCodeCamp is listed here, only the information that will 
 * **Take Home Projects**
 
 ## Necessary developer tools
-FreeCodeCamp will do a great job of teaching you the concepts you need to know, but its platform is not something that will be useful in real-world web development.
+FreeCodeCamp will do a great job of teaching you the *concepts* you need to know, but when you're writing real code, you're going to use a desktop application called an integrated development (IDE), along with several other tools to turn the code on your computer into a live web application.
 
 You will need to know how to use and navigate the following tools:
-* Visual Studio Code (or some integrated development)
-* Git (and GitHub)
-* deploying your code (making it live and usable for the world)
 
-Detail TBD
+### **Visual Studio Code**
+
+Visual Studio Code (or as the cool kids call it, VSCode) is one of the most popular IDEs for web development. It comes out of the box with everything you need to right code and allows for all sorts of plugins that can supercharge your productivity.
+
+Keep in mind that when you get to your first job, you *might* actually not end up using this specific IDE. However, you will very likely have to use a similar tool, and most of the same basic principles will apply.
+
+* [Download VSCode](https://code.visualstudio.com)
+* [Basics](https://code.visualstudio.com/docs/introvideos/basics)
+* [Code editing](https://code.visualstudio.com/docs/introvideos/codeediting)
+* [Productivity tips](https://code.visualstudio.com/docs/introvideos/productivity)
+* [Personalize](https://code.visualstudio.com/docs/introvideos/configure)
+* [Extensions](https://code.visualstudio.com/docs/introvideos/extend)
+* [Debugging](https://code.visualstudio.com/docs/introvideos/debugging)
+
+### **Git (and GitHub)**
+To summarize the difference between the two tools, **Git** is a software tool you install on your computer that helps you track who changed what code and when inside your code projects. **GitHub** is a website that allows you to host code repositories (projects) that are tracked by Git.
+
+* [Intro to Git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
+* [Version control in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/versioncontrol)
+
+### **Deploying your code**
+<!-- TODO: Add FreeCodeCamp tutorial for code deploys -->
