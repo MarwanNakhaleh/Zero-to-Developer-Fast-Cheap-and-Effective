@@ -130,25 +130,34 @@ Researching how to solve problems includes, but is not limited to, the following
 ### **Analyzing the code**
 One of the central skills you need as a software engineer is the ability to break down what is happening in each line of code you read or write.
 
+This includes using reading and understanding your code and other people's code and debugging tools to walk through code line by line to figure out where an error lies.
+
 ### **Using search engines**
 Finding a solution online is often as simple as going to your search engine of choice and searching "how to do X." However, you need to be at a point where you can figure out what you're missing in your code.
 
 ## Building projects
-
 Now that you have the technical skills to build full-stack applications (where you build both the front-end and back-end), you want to begin creating things.
 
-You can follow t
+You can follow tutorials to begin getting ideas or to begin understanding how full-stack applications fit together from start to finish. 
+
+Below are some high-quality free examples to help you.
+
+* [Plan, code, and deploy a job search app](https://www.youtube.com/watch?v=lauywdXKEXI)
+* [Playlist to build a full-stack social media app (five long videos)](https://www.youtube.com/watch?v=ngc9gnGgUdA&list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu&index=2&t=0s)
 
 ### **Deploying your code**
+It is a great accomplishment to build a full-stack application from start to finish on your own computer. However, there is still some work that needs to happen between having software run on your computer and getting it online so that other people can use it from the internet.  
 <!-- TODO: Add FreeCodeCamp tutorial for code deploys -->
 
 ## Getting a job
 
-### Writing a resume
+### **Writing a resume**
+* [Example entry-level programmer resume](https://www.beamjobs.com/resumes/software-engineer-resume-examples#entry-level)
+* [Do's and dont's for resume formatting and content](https://arc.dev/resume)
 
-### Getting noticed by recruiters
+### **Getting noticed by recruiters**
+Go to [Meetup](https://meetup.com) and 
 
-### Completing coding interviews
-[Cracking the Coding Interview](https://www.crackingthecodinginterview.com)
-
-[Greedy algorithms](https://www.youtube.com/watch?v=bC7o8P_Ste4)
+### **Completing coding interviews**
+* [Cracking the Coding Interview book](https://www.crackingthecodinginterview.com)
+* [Greedy algorithms](https://www.youtube.com/watch?v=bC7o8P_Ste4)
