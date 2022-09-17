@@ -118,5 +118,37 @@ To summarize the difference between the two tools, **Git** is a software tool yo
 * [Intro to Git and GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * [Version control in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/versioncontrol)
 
+## Doing research
+After completing everything above, you should have the knowledge to say "okay, to make X happen in my code, I need to do Y." As you inevitably encounter challenges where you have to figure something out on your own, you will need to be able research effectively.
+
+Researching how to solve problems includes, but is not limited to, the following:
+
+* Analyzing the code to see where something went wrong
+* Using search engines to find solutions
+* Reading documentation for a service you're using
+
+### **Analyzing the code**
+One of the central skills you need as a software engineer is the ability to break down what is happening in each line of code you read or write.
+
+### **Using search engines**
+Finding a solution online is often as simple as going to your search engine of choice and searching "how to do X." However, you need to be at a point where you can figure out what you're missing in your code.
+
+## Building projects
+
+Now that you have the technical skills to build full-stack applications (where you build both the front-end and back-end), you want to begin creating things.
+
+You can follow t
+
 ### **Deploying your code**
 <!-- TODO: Add FreeCodeCamp tutorial for code deploys -->
+
+## Getting a job
+
+### Writing a resume
+
+### Getting noticed by recruiters
+
+### Completing coding interviews
+[Cracking the Coding Interview](https://www.crackingthecodinginterview.com)
+
+[Greedy algorithms](https://www.youtube.com/watch?v=bC7o8P_Ste4)
