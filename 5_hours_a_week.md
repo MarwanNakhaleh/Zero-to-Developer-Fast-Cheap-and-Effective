@@ -1,0 +1,1 @@
+# Curriculum pace for 5 hours a week
